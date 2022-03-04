@@ -5,4 +5,3 @@ while True:
         break
 
     print(abs(lst[0] - lst[1]))
-    
